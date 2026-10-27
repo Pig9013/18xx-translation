@@ -1,3 +1,5 @@
+**中文** · [English](README.en.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [Русский](README.ru.md)
+
 # 18xx 规则书中译 · 工作流与成品
 
 > **以英文原规为唯一权威**的 18xx（铁路经营桌游）规则书中译，以及"复刻原书版式、按位置嵌入原书插图"的排版版 PDF。
